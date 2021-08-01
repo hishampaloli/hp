@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    margin:40px auto 0 auto;
+    color:#53B8BB ;
+}
+h2{
+    color:#66BFBF;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color:#53B8BB ;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+hr{
+    border: dotted #d0fdfd 6px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+.top-container{
+    background-color:#e5fdfa;
+    padding-top: 80px;
+    position: relative;
+   
+}
+.middle-container{
+    background-color: rgb(240, 255, 255);
+}
+.cloud-1{
+    position: absolute;
+    left: 390px;
+    top: 40px;
+}
+.cloud-2{
+    position: absolute;
+    left: 020px;
+}
+.profile{
+    width: 100%;
+    text-align: center;
+    margin: 0px auto 100px auto;
+    padding-top: 100px;
+
+}
+.intro{
+    width: 40%;
+    margin: 50px auto;
+    line-height: 22px;
+}
+.skills{
+    margin-top: 100px;
+}
+.skill-row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 22px;
+}
+.skill-row2{
+    width: 50%;
+    margin: 100px auto 10px auto;
+    text-align: left;
+    line-height: 22px;
+    
+}
+.football{
+    width: 40%;
+    float: left;
+    border-radius: 100%;
+    margin-right: 50px;
+}
+.code{
+    width: 40%;
+    float: right;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+.contact-me{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #abf8f8, #9aebeb, #83d7d8, #76c9cb, #53b8bb);
+    border-radius: 15px;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+}
+.bottom-container{
+    background-color:#308f8f ;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+.cr{
+    color: aliceblue;
+}
+
